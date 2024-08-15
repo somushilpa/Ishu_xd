@@ -14,7 +14,7 @@ from ANNIEMUSIC.utils.database import is_on_off
 from ANNIEMUSIC.utils.formatters import time_to_seconds
 
 async def track(self, link: str, videoid: Union[bool, str] = None):
-        if videoid:
+        if videoid ():
             link = self.base + link
         if "&" in link:
             link = link.split("&")[0]
