@@ -26,7 +26,7 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/CHALCOGEN645/PENGUIN-X-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/somushilpa/Ishu_xd"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 
@@ -51,7 +51,7 @@
 - Install Node js by :
  `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
- `git clone https://github.com/CHALCOGEN645/PENGUIN-X-MUSIC && cd PENGUIN-X-MUSIC`
+ `git clone https://github.com/somushilpa/Ishu_xd && cd Ishu_xd`
 - Install requirements by :
  `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
